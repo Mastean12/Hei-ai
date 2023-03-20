@@ -82,7 +82,7 @@ const handlesubmit = async (e) => {
 
     //fetch data from ther serever -> bot response
 
-    const response = await fetch('https://heiai.onrender.com', {
+    const response = await fetch('https://heiai-01f2.onrender.com', {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json'
