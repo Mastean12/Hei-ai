@@ -1,5 +1,5 @@
 Hei-AI
-Hei-AI is an experimental AI project created by Thiarara for free public use. This project aims to showcase the potential of AI in providing insights and predictions on different datasets, while emphasizing the importance of cautious use of AI that has not been thoroughly trained.
+Hei-AI is an experimental AI project created by Thiarara for free public use. This project aims to showcase the potential of AI in providing insights and predictions on different datasets, while emphasizing the importance of cautious use of AI that has not been thoroughly trained. <br>
 
 Demo
 Access the demo of the project using the following links:
