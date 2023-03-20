@@ -12,7 +12,7 @@ function loader(element){
     loadInterval = setInterval(() => {
         element.textContent +='*';
 
-        if(element.textContent === `*LOADING*`) {
+        if(element.textContent === `******`) {
             element.textContent =''; 
         }
     },300)
